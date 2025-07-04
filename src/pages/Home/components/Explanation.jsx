@@ -1,7 +1,7 @@
 import { FaUsers, FaRocket } from 'react-icons/fa';
 import { Link } from 'react-router';
 
-import coworking from "../../../assets/home/images/coworking.jpg"
+import coworking from "../../assets/home/images/coworking.jpg"
 
 export default function Explanation() {
   return (
